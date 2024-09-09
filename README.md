@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-## NAME:GAYATHIRI ROSHINI M
-## REG NO:212223110012
+## NAME:A joans jay authers
+## REG NO:212221240019
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -54,9 +54,9 @@ Socket programming finds applications in various domains, including web developm
 4.	Networked Games: Online multiplayer games rely on socket programming to facilitate communication between game clients and servers.
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 ## PROGRAM
-DEVELOPED BY:M GAYATHIRI ROSHINI 
+DEVELOPED BY: A joans jay authers 
 
-REG NO:212223110012
+REG : 212221240019
 ## CLIENT
 ```
 import socket
