@@ -88,7 +88,8 @@ CLIENT:
 
 SERVER:
 
-![image](https://github.com/user-attachments/assets/7daab9f2-3ebf-4062-8c0d-4e6aea1d77ed)
+![image](https://github.com/user-attachments/assets/d19c947f-9041-474b-97be-507997457876)
+
 
 
 
